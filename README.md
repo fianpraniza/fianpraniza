@@ -1,9 +1,11 @@
 # Hi, mate.
-Perkenalkan saya **Muhammad Arfian Praniza**.<br>
-Saya seorang **Mahasiswa** di [Universitas Jenderal Soedirman](https://unsoed.ac.id/).<br>
-Pada perkuliahan semester ini saya mengikuti kegiatan *Studi Independent Bangkit Academy* yang diselenggarakan oleh [Dicoding](https://www.dicoding.com/).<br>
-Saya memiliki antusiasme dan ambisi yang tinggi terhadap teknologi *Artificial Intelligence* dan sering mengikuti berbagai kelas gratis diberbagai platform.<br>
-Mari kita berkoneksi [Linkedin](https://www.linkedin.com/in/muhammad-arfian-praniza-083b8b1a2/).
+I'm Muhammad Arfian Praniza<br>
+
+🔥 Young & ambitious data/tech enthusiast on a mission to push tech boundaries.<br>
+🌟 Always learning, growing, and ready to make an impact.<br>
+🤝 Let's collaborate and create something amazing together!<br>
+
+Connect with me [Linkedin](https://www.linkedin.com/in/muhammad-arfian-praniza-083b8b1a2/).
 
 ### Github Statistic
 <p align="left">
