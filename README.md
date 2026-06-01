@@ -5,7 +5,7 @@ I'm Muhammad Arfian Praniza<br>
 🌟 Always learning, growing, and ready to make an impact.<br>
 🤝 Let's collaborate and create something amazing together!<br>
 
-Connect with me [Linkedin](https://www.linkedin.com/in/muhammad-arfian-praniza-083b8b1a2/).
+Connect with me [Linkedin](https://www.linkedin.com/in/fianpraniza/).
 
 ### Github Statistic
 <p align="left">
